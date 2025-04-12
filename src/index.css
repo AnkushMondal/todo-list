@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url("https://images.hdqwalls.com/download/illustrator-planet-ai-art-4k-84-1920x1080.jpg");
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-size: cover;
+  background-blend-mode: lighten;
+}
